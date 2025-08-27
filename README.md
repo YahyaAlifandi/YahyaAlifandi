@@ -11,4 +11,4 @@ I'm a passionate **Web Developer** specializing in **Laravel, TailwindCSS, and R
 ## 📫 Contact Me
 - Email: yahyabisnis911@gmail.com
 
-✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+✨ “Build fast, build clean, build smart.”
